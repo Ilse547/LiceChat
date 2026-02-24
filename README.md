@@ -27,6 +27,10 @@ Express for the backend
 ### Frontend:
 Vue3 as a fronend framework
 
+### Database:
+MongoDB for stroign user data and group data
+GUNjs for the messages
+
 ### Authentication:
 
 
